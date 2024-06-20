@@ -135,3 +135,11 @@ ui-tests/playwright-report
 .pnp.*
 ui-tests/.yarn/*
 ui-tests/.pnp.*
+
+# generated files
+best_learner.pt
+grid_search_results.csv
+losses.csv
+misclassified_*
+train_*
+validate_*
